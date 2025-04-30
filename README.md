@@ -1,6 +1,8 @@
 # fortune-mod-minecraft-movie
 quotes from A Minecraft Movie (2025) that you can use in the `fortune` command.
 
+![](example.png)
+
 ## Contributing
 - edit the `minecraftmovie` file
 - run `strfile -c % minecraftmovie{,.dat}`
