@@ -3,7 +3,7 @@ quotes from A Minecraft Movie (2025) that you can use in the `fortune` command.
 ## How to use
 (assuming you have fortune installed already) <br/>
 ```
-cd /usr/share/fortune
+  cd /usr/share/fortune
   wget https://github.com/bean-frog/fortune-mod-minecraft-movie/raw/refs/heads/main/minecraftmovie
   wget https://github.com/bean-frog/fortune-mod-minecraft-movie/raw/refs/heads/main/minecraftmovie.dat
 ```
